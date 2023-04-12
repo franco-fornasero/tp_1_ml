@@ -7,4 +7,5 @@ seaborn==0.12.2
 plotly==5.13.1
 sklearn-pandas==2.2.0
 Pillow==8.4.0
-
+keras==2.12.0
+tensorflow==2.12.0
